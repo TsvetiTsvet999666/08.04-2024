@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VtoraZadacha/1.0.0": {
+        "runtime": {
+          "VtoraZadacha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VtoraZadacha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
